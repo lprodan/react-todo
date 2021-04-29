@@ -23,3 +23,12 @@ yarn-debug.log*
 yarn-error.log*
 
 .idea
+
+/static
+/asset-manifest.json
+/favicon.ico
+/index.html
+/main.css
+/manifest.json
+/robots.txt
+/triangles.png
