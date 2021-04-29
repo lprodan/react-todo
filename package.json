@@ -20,7 +20,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build && fileutils mv build/* .",
+    "build": "react-scripts build",
+    "build:unpack": "fileutils mv build/* .",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
