@@ -1,7 +1,11 @@
 {
   "name": "todo",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lprodan/react-todo.git"
+  },
   "homepage": "https://lprodan.github.io/react-todo",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
